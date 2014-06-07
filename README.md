@@ -1,4 +1,0 @@
-DeltaOne
-========
-
-First Repo
